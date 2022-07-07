@@ -1,0 +1,32 @@
+.margins-1 {
+    margin: 10% auto;
+}
+.margins-2 {
+    margin: 5% auto;
+}
+.margins-5 {
+    margin: 2% auto;
+}
+.quote{
+    background-color: #dddddd;
+    padding: 5%;
+    text-align: center;
+}
+
+.grey-background{
+    background-color: #eeeeee;
+    padding: 5%;
+}
+.margins-bottom{
+    margin-bottom: 5%;
+}
+
+.card-images{
+    height: 20%;
+    width: 100%;
+    display: block;
+}
+.dark-background{
+    background-color: #555555;
+    padding: 5%;
+}
